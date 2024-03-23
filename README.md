@@ -1,1 +1,1 @@
-What is phishing? Well in simple terms, phishing is when you try to hack the human. The end goal is to get as much information as possible 
+What is phishing? Well in simple terms, phishing is when you try to hack the human. The end goal is to get as much confidential information as possible. For example, usernames, passwords, bank account numbers and anything you wouldn't normally share with others. One common attack vector is via email where malicious actors want you to click the malicious link in hopes that they can get your information. 
